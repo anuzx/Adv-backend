@@ -1,2 +1,2 @@
 # leetcode-backend
-made to implement redis 
+redis and state management 
