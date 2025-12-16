@@ -1,9 +1,9 @@
 //aim is to log the state of the server
 
-import { games } from "./store.js";
+import { gameManager } from "./store.js";
 
 export function startLogger() {
     setInterval(() => {
-      console.log(games);
+      console.log(gameManager.log());
     }, 5000);
 }
