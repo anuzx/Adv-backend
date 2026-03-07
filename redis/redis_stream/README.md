@@ -22,15 +22,6 @@ redis-cli
 <p>it is a data structure ,that acts as an append only log but has more potential than a usual append only log. It include access in O(1) time, complex consumption strategies such as consumer groups</p>
 
 <br>
-
-```
-HSET key field value
-```
-
-```
-HGET key field 
-```
-
 # basic commands
 
 XADD: adds a new entry to a stream 
