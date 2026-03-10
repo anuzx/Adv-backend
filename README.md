@@ -1,2 +1,2 @@
 # leetcode-backend
-redis , kafka , web_rtc and state management 
+redis , kafka , web_rtc ,trpc , graphql and state management 
